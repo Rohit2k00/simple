@@ -1,2 +1,5 @@
 name = 'rohit'
 print('helllo', name, ' how are you ?')
+
+age = 23
+print('your age is ', age)
