@@ -1,0 +1,2 @@
+name = 'rohit'
+print('helllo', name, ' how are you ?')
